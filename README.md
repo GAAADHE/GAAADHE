@@ -2,7 +2,7 @@
 
 ## ✨ Hi, My Name is Gadiel and i'm making some games. ✨
 
-- 🔭 I’m currently working on my tiny projects like (Cursed-House-Nightmare)[https://github.com/GAAADHE/Cursed-House-Nightmare], using [Godot engine](https://github.com/godotengine/godot).
+- 🔭 I’m currently working on my tiny projects like [Cursed-House-Nightmare](https://github.com/GAAADHE/Cursed-House-Nightmare), using [Godot engine](https://github.com/godotengine/godot).
 
 - ❔ Pronouns: He/Him
 
